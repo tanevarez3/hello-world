@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi, Humans!
+
+Tony here, I like learning to code.
+I will learn within a year!
